@@ -25,4 +25,5 @@ Board truncated and SMD footprints removed.
 
 _PC02_
 
-Wider "wing" made narrower to match other side more closely.
+Wider "wing" made narrower to match other side and allow access to header P6 on BeagleBone white.
+Mounting holes added.
