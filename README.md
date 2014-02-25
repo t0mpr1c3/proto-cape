@@ -22,3 +22,7 @@ _PC01_
 
 Magic Smoke logo applied to original LGX design.
 Board truncated and SMD footprints removed.
+
+_PC02_
+
+Wider "wing" made narrower to match other side more closely.
