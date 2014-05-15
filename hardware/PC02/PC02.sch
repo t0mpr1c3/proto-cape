@@ -2292,10 +2292,10 @@
 <sheets>
 <sheet>
 <plain>
-<text x="185.42" y="-15.24" size="2.1844" layer="97" font="vector">A. HIAM</text>
+<text x="185.42" y="-15.24" size="2.1844" layer="97" font="vector">A. HIAM / T. PRICE</text>
 <text x="180.34" y="-10.16" size="2.1844" layer="97" font="vector">PC01</text>
 <text x="251.46" y="-10.16" size="2.1844" layer="97" font="vector">1</text>
-<text x="180.34" y="-20.32" size="2.1844" layer="97" font="vector">lgx.co</text>
+<text x="180.34" y="-20.32" size="2.1844" layer="97" font="vector">lgx.co / smokedprojects.blogspot.com</text>
 <text x="170.18" y="-25.4" size="2.1844" layer="97" font="vector">CC BY 3.0</text>
 </plain>
 <instances>
