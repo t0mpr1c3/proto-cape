@@ -28,3 +28,7 @@ _PC02_
 Wider "wing" made narrower to match other side and allow access to header P6 on BeagleBone white.
 Mounting holes added.
 Adjustments to solder stop layer.
+
+_PC03_
+
+Swapped VDD5V and SYS5V labels on top silk layer.
